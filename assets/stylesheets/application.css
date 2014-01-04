@@ -29,7 +29,10 @@ p {
 p:last-child {
   margin-bottom: 0px;
 }
-h1 {
+hr {
+  margin: 10px 0 10px 0;
+}
+h1, h3 {
     font-family: 'Bad Script', cursive;
     text-align: center;
 }
@@ -50,7 +53,7 @@ a:hover {
 #social {
   position: relative;
   width: auto;
-  top: 5px;
+  top: 155px;
   margin-left: 90px;
 }
 #social i.icon-stack-base {
@@ -108,7 +111,7 @@ a:hover {
   #social {
     position: relative;
     top: 5px;
-    margin-left: 60px;
+    margin-left: 140px;
   }
   #about {
     width: auto;
