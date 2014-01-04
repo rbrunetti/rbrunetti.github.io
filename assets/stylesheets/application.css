@@ -53,8 +53,8 @@ a:hover {
 #social {
   position: relative;
   width: auto;
-  top: 155px;
-  margin-left: 90px;
+  top: 5px;
+  margin-left: 160px;
 }
 #social i.icon-stack-base {
   color: rgba(0,0,0,0.7);
