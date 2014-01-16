@@ -54,7 +54,7 @@ a:hover {
   position: relative;
   width: auto;
   top: 5px;
-  margin-left: 160px;
+  margin-left: 140px;
 }
 #social i.icon-stack-base {
   color: rgba(0,0,0,0.7);
@@ -111,7 +111,7 @@ a:hover {
   #social {
     position: relative;
     top: 5px;
-    margin-left: 140px;
+    margin-left: 30%;
   }
   #about {
     width: auto;
