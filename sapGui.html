@@ -37,8 +37,7 @@
      
     function openSAPGui(sid, client, user, password, transaction){
         var shell =  new ActiveXObject("WScript.Shell");
-        shell.run('cmd.exe');
-        //shell.run('sapshcut.exe -system="'+sid+'" -client='+client+' -user="'+user+'" -pw="'+password+'" -language=DE -Command="'+transaction+'"');         
+        shell.run('sapshcut.exe -system="'+sid+'" -client='+client+' -user="'+user+'" -pw="'+password+'" -language=DE -Command="'+transaction+'"');         
     }
     </script>
 </body>
